@@ -11211,6 +11211,7 @@ body {
 }
 
 .signup-section .form-signup input {
+  width: 100%;
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
   height: auto;
@@ -11222,7 +11223,7 @@ body {
 }
 
 .signup-section .form-signup textarea {
-  resize: none;
+  width: 100%;
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
   height: auto;
